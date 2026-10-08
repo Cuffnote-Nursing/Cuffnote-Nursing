@@ -10,6 +10,6 @@ Legal and policy documents for **Cuffnote**, a study app for nursing students.
 
 *Effective October 3, 2026 · version 2026-10-03*
 
-The same text appears inside the app and at <https://cuffnote.netlify.app/privacy.html>.
+The same text appears inside the app and on the web at <https://cuffnote-nursing.github.io/Cuffnote-Nursing/policies/privacy.html>.
 
 **Contact:** cuffnoteapp@gmail.com

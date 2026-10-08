@@ -14,7 +14,7 @@
 
 ## 1. Who we are
 
-Cuffnote is an independent study app run by Cuffnote Nursing ("we", "us"). We are not a school, employer, hospital or testing body. You can reach us at [cuffnoteapp@gmail.com](mailto:cuffnoteapp@gmail.com).
+Cuffnote is an independent study app ("we", "us"). We are not a school, employer, hospital or testing body. You can reach us at [cuffnoteapp@gmail.com](mailto:cuffnoteapp@gmail.com).
 
 ## 2. What we collect
 
